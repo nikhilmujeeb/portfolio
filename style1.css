@@ -104,7 +104,7 @@ nav a:hover {
     align-items: center;
     gap: 8rem;
     background-color: black;
-    height: 100vh; /* Ensures this section fills the entire screen */
+    height: 100vh;
     position: relative;
 }
 
